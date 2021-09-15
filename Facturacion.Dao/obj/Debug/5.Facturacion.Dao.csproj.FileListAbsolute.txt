@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\FACTURACIONAPI\Facturacion.Dao\obj\Debug\5.Facturacion.Dao.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\FACTURACIONAPI\Facturacion.Dao\obj\Debug\5.Facturacion.Dao.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FACTURACIONAPI\Facturacion.Dao\bin\Debug\Facturacion.Dao.dll
+C:\Users\Lenovo\source\repos\FACTURACIONAPI\Facturacion.Dao\bin\Debug\Facturacion.Dao.pdb
+C:\Users\Lenovo\source\repos\FACTURACIONAPI\Facturacion.Dao\bin\Debug\Facturacion.Entidad.dll
+C:\Users\Lenovo\source\repos\FACTURACIONAPI\Facturacion.Dao\bin\Debug\Facturacion.Entidad.pdb
+C:\Users\Lenovo\source\repos\FACTURACIONAPI\Facturacion.Dao\obj\Debug\5.Facturacion.Dao.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\FACTURACIONAPI\Facturacion.Dao\obj\Debug\Facturacion.Dao.dll
+C:\Users\Lenovo\source\repos\FACTURACIONAPI\Facturacion.Dao\obj\Debug\Facturacion.Dao.pdb

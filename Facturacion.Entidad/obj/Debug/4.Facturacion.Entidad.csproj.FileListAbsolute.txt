@@ -1,0 +1,5 @@
+C:\Users\Lenovo\source\repos\FACTURACIONAPI\Facturacion.Entidad\bin\Debug\Facturacion.Entidad.dll
+C:\Users\Lenovo\source\repos\FACTURACIONAPI\Facturacion.Entidad\bin\Debug\Facturacion.Entidad.pdb
+C:\Users\Lenovo\source\repos\FACTURACIONAPI\Facturacion.Entidad\obj\Debug\4.Facturacion.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FACTURACIONAPI\Facturacion.Entidad\obj\Debug\Facturacion.Entidad.dll
+C:\Users\Lenovo\source\repos\FACTURACIONAPI\Facturacion.Entidad\obj\Debug\Facturacion.Entidad.pdb
